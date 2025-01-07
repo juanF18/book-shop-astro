@@ -1,11 +1,11 @@
 ---
-title: Aprendiendo Git,
-author: Juan Pérez,
-img: aprende_git.jpg,
+title: Aprendiendo Git
+author: Juan Pérez
+img: aprende-git.jpg
 readtime: 224,
-description: Este libro es una guía completa para aprender Git, el sistema de control de versiones más popular.,
+description: Este libro es una guía completa para aprender Git, el sistema de control de versiones más popular.
 buy:
-  spain: https://a.co/d/d7NOMiD,
+  spain: https://a.co/d/d7NOMiD
   usa: https://a.co/d/d7NOMiD
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: El Programador Pragmático,
-author: Andrew Hunt y David Thomas,
-img: programador_pragmatico.jpg,
+title: El Programador Pragmático
+author: Andrew Hunt y David Thomas
+img: programador-pragmatico.jpg
 readtime: 250,
-description: Este libro ofrece consejos prácticos y técnicas para mejorar tus habilidades como desarrollador de software.,
+description: Este libro ofrece consejos prácticos y técnicas para mejorar tus habilidades como desarrollador de software.
 buy:
-  spain: https://a.co/d/d7NOMiD,
+  spain: https://a.co/d/d7NOMiD
   usa: https://a.co/d/d7NOMiD
 ---
 
