@@ -2,7 +2,7 @@
 title: Refactoring
 author: Martin Fowler
 img: refactoring.jpg
-readtime: 300,
+readTime: 300
 description: Este libro es una guía esencial para mejorar el diseño de código existente.
 buy:
   spain: https://a.co/d/d7NOMiD

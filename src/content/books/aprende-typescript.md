@@ -2,7 +2,7 @@
 title: Aprende TypeScript
 author: Josh Goldberg
 img: aprende-typescript.jpg
-readtime: 180,
+readTime: 180
 description: Este libro es una guía completa para aprender TypeScript, un superconjunto de JavaScript que añade tipos estáticos.
 buy:
   spain: https://a.co/d/d7NOMiD

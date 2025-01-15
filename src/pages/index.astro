@@ -14,12 +14,12 @@ const books = await getCollection("books");
   </main>
   <section aria-label="Libros recomendados para programadores">
     <div class="grid gap-5 md:grid-cols-2">
-      {books.map((book: any) => {
+      {books.map((book) => {
         const {slug, data} = book;
-        const {title, author, img, readtime, description, buy} = data;
+        const {title, author, img, readTime, description, buy} = data;
 
         return (
-          <article>
+          <article >
             <img src={`/img/${img}`} alt={title} class="w-full object-cover rounded-lg" /> 
             <h3>{title}</h3>
           </article>
