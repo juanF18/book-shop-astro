@@ -16,3 +16,4 @@ El libro "Refactoring" de Martin Fowler es una obra fundamental en el campo del 
 A lo largo del libro, aprenderás a identificar "code smells" (indicadores de que el código necesita refactorización) y a aplicar técnicas específicas para mejorar la legibilidad, mantenibilidad y extensibilidad del código. También se cubren temas como la automatización de pruebas y la integración continua, que son esenciales para un proceso de refactorización efectivo.
 
 Si eres un desarrollador que busca mejorar la calidad de su código y aprender técnicas avanzadas de diseño, este libro es una lectura obligada.
+
